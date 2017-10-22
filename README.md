@@ -1,6 +1,6 @@
 # Ushahidi Installation
 
-These instructions explain how to install the Ushahidi v3 platform for development
+These instructions explain how to install the Ushahidi v3 platform for development.
 
 ## Requirements
 
@@ -9,7 +9,7 @@ These instructions explain how to install the Ushahidi v3 platform for developme
 - VirtualBox
 - Vagrant
 
-I will explain how I installed all of these on a Mac. The original instructions (that are a little vague) can be found at `https://www.ushahidi.com/support/install-ushahidi#installing-for-development`
+I will explain how I installed all of these on a Mac. The original instructions can be found at `https://www.ushahidi.com/support/install-ushahidi#installing-for-development`
 
 First, clone the Ushahidi platform from github (the right one this time!) and navigate into the directory:
 ```
@@ -19,7 +19,7 @@ cd platform
 
 ### Install PHP
 
-Homebrew seems like the easiest way to install PHP on a Mac, so if you don't already have it, you can download and install with
+Homebrew seems like the easiest way to install PHP on a Mac, so if you don't already have it, you can download and install with:
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
